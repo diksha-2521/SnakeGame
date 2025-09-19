@@ -1,0 +1,2 @@
+walls:0
+infinite:13
